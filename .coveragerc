@@ -1,0 +1,7 @@
+[run]
+source=authentication/,tasks/,
+omit=
+   env
+   */migrations/*
+   */tests/*
+   */__init__.py
